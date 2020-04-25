@@ -15,7 +15,7 @@ import re
 
 
 #视频链接
-archive_url_video="https://www.bilibili.com/video/BV1hs411Q7zf";
+archive_url_video="https://www.bilibili.com/video/BV1zs411S7sz";
 r_video = requests.get(archive_url_video)
 #正则匹配获取弹幕链接
 danmu_id = re.findall(r'cid=(\d+)&', r_video.text)[0]
