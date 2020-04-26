@@ -66,3 +66,5 @@ counts_sum=collections.Counter([]);
 for video_link in video_links:
     counts=get_counts_sum(video_link);
     counts_sum=counts_sum+counts;
+    
+top100=counts_sum.most_common(100);    
