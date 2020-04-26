@@ -1,5 +1,8 @@
 为了获取高频词，生成弹幕屏蔽列表
 
+new-version-branch为了解决anaconda更新后代码报错的问题。
+
+
 1.抓取弹幕列表
 使用Bilibili自带的api：http://comment.bilibili.com/182125162.xml
 
