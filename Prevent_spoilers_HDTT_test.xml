@@ -22,7 +22,7 @@
 <item enabled="true">r=【暗示党】|.*是有原因的|.*是因为|往下看</item>
 <item enabled="true">r=【梗暗示】|打脸|flag|结局|高能|前方</item>
 
-<item enabled="true">r=【箭头】|[↑↓←→↗↖↘↙]|</item>
+<item enabled="true">r=【箭头】|[↑↓←→↗↖↘↙]</item>
 
 
 </filters>
