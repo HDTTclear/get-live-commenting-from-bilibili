@@ -19,7 +19,7 @@
 <item enabled="true">r=【谁死了】|[死挂凉没殁卒黑]|.*便当|.*杀青|.*盒饭|.*gg|.*GG|.*Gg</item>
 
 
-<item enabled="true">r=【暗示党】|.*是有原因的|.*是因为|往下看|</item>
+<item enabled="true">r=【暗示党】|.*是有原因的|.*是因为|往下看</item>
 <item enabled="true">r=【梗暗示】|打脸|flag|结局|高能|前方</item>
 
 <item enabled="true">r=【箭头】|[↑↓←→↗↖↘↙]|</item>
