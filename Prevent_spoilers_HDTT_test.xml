@@ -1,0 +1,28 @@
+<filters>
+
+<item enabled="true">r=\s</item>
+
+
+<item enabled="true">r=【二五仔】|[二2②Ⅱ贰耳][五5唔无吴⑤Ⅴ舞午伍污]仔</item>
+
+<item enabled="true">r=【二五仔】|坏人是|是坏人</item>
+
+<item enabled="true">r=【凶手】|[fan熊雄🐻兄凶汹讻忷兇訩][受手首收守瘦兽寿授扌]</item>
+
+<item enabled="true">r=【反骨仔】|[反范番繁钒烦饭凡帆犯返贩][鼓谷故骨🥁古股顾固孤姑蛊辜]</item>
+
+<item enabled="true">r=【记住党】|[别憋][忘]了[这那内]|[记想][住着][这那内]|注意[这那内]</item>
+
+<item enabled="true">r=【隐晦暗示】|[这内那]个人.*了|[这内那]人.*了</item>
+
+
+<item enabled="true">r=【谁死了】|[死挂凉没殁卒黑]|.*便当|.*杀青|.*盒饭|.*gg|.*GG|.*Gg</item>
+
+
+<item enabled="true">r=【暗示党】|.*是有原因的|.*是因为|往下看|</item>
+<item enabled="true">r=【梗暗示】|打脸|flag|结局|高能|前方</item>
+
+<item enabled="true">r=【箭头】|[↑↓←→↗↖↘↙]|</item>
+
+
+</filters>
